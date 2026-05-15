@@ -9,9 +9,9 @@ This small project was created for a university programm. It´s goal is to get u
 - Custom 3D printed mechanical frame
 
 ## Finished
--[x] wave
--[x] stand_up
--[x] reset
+- [x] wave
+- [x] stand_up
+- [x] reset
 
 ## Problmes
 - Limited Movment
